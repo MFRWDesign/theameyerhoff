@@ -58,11 +58,11 @@ data_sources:
     # it will become “/about.html/” instead.
     allow_periods_in_identifiers: false
 
-company: 'Jacquelyn Carver'
-author: 'Jacquelyn Carver'
+company: 'Thea Meyerhoff'
+author: 'MFRWDesign'
 phone: '+1-333-333-3333'
 phonelink: '#'
-city: 'Jersey City, New Jersey'
+city: 'Somewhere Over The Rainbow'
 country: 'United States'
-email: 'jacquelyn905@gmail.com'
+email: ''
 
