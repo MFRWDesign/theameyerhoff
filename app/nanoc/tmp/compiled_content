@@ -1,4 +1,4 @@
-{:	data{I"/:ET{:default{	:	lastI"] <!doctype html>
+{:	data{I"/:ET{:default{	:	lastI"f <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -102,7 +102,7 @@
     <img src="images/birthday.jpg" class="img-responsive"/>
   </div>
   <div class="col-sm-8">
-    <h2>Happy Birthday!!!</h2>
+    <h2>Happy Birthday!!!!!!!!!!!!</h2>
     <p>Welcome to your new website. You own this domain name now! Happy Birthday!</p>
   </div>
 </div>
@@ -175,20 +175,20 @@
         <!-- endbuild -->
 </body>
 </html>
-;T:rawI"<div class="row">
+;T:rawI"<div class="row">
   <div class="col-sm-4">
     <img src="images/birthday.jpg" class="img-responsive"/>
   </div>
   <div class="col-sm-8">
-    <h2>Happy Birthday!!!</h2>
+    <h2>Happy Birthday!!!!!!!!!!!!</h2>
     <p>Welcome to your new website. You own this domain name now! Happy Birthday!</p>
   </div>
-</div>;T:preI"<div class="row">
+</div>;T:preI"<div class="row">
   <div class="col-sm-4">
     <img src="images/birthday.jpg" class="img-responsive"/>
   </div>
   <div class="col-sm-8">
-    <h2>Happy Birthday!!!</h2>
+    <h2>Happy Birthday!!!!!!!!!!!!</h2>
     <p>Welcome to your new website. You own this domain name now! Happy Birthday!</p>
   </div>
 </div>;T:	post@
